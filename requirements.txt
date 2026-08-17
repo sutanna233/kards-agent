@@ -1,0 +1,8 @@
+# KARDS Agent 依赖
+numpy>=1.26
+opencv-python>=4.9
+Pillow>=10.0
+# 数字 OCR(可选;无 Tesseract 时会回退到自写数字分割)
+pytesseract>=0.3.10
+# 可选:LLM 评估(deepseek 等 OpenAI 兼容接口)
+openai>=1.30
