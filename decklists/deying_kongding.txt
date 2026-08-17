@@ -1,0 +1,31 @@
+德英控顶
+Major power: germany
+Ally: britain
+HQ: 但泽
+
+germany:
+3x (1K) 溃敌
+3x (2K) U-375
+2x (3K) 第 361 非洲兵团
+1x (3K) 四号坦克歼击车
+2x (4K) 第 113 步枪兵团
+2x (4K) 狼群战术
+1x (4K) 三号坦克 H 型
+1x (4K) Fw 190 F-9
+2x (4K) Ju 87 B 斯图卡
+1x (5K) 圈套
+1x (6K) 88 毫米高射炮
+2x (6K) Fw 190 A 百舌鸟
+3x (7K) 第 108 装甲掷弹兵团
+2x (7K) 四号坦克 H 型
+1x (8K) 虎式坦克 H 型
+
+britain:
+2x (1K) 巨人计算机
+1x (1K) 米德尔塞克斯团
+2x (3K) 防御工事
+4x (3K) HX 175 护航队
+1x (4K) 夜袭
+2x (4K) 战争迷雾
+
+%%12|0q3V4E4sfTtotpw8;0d3j434d4HeFqdqhyO;3hlKtv;08
