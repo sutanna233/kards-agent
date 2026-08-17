@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+*.egg
+
+# 私有/密钥
+.env
+.env.*
+!_env.example
+_private/
+*.key
+*.pem
+
+# 运行产物
+logs/
+*.png
+*.jpg
+!tests/snapshots/*.png
+!templates/**/*.png
+
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 上传占位(避免误传 .env.example 之外的表)
+*.db
+*.sqlite3
