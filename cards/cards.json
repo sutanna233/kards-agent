@@ -1,0 +1,1604 @@
+﻿[
+    {
+        "id":  "kGermany-1",
+        "name":  "Pak 36",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  1,
+        "defense":  1,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When your enemy deploys a tank unit, deal 1 damage to it.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-2",
+        "name":  "1. Infantry Regiment",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  1,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-3",
+        "name":  "Sd Kfz 222",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  1,
+        "defense":  2,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. Adjacent ground units have +1 attack.",
+        "rarity":  "Limited",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-4",
+        "name":  "Panzer II-C",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  1,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When a friendly unit becomes Veteran, it gains +2+1",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kGermany-5",
+        "name":  "4. Pioneer Battalion",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  1,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give all friendly ground units in the frontline +1 defence",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-6",
+        "name":  "Panzer III-L",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Germany",
+        "cost":  3,
+        "attack":  3,
+        "defense":  5,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. Has +1 attack for each non-tank unit type you control.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-7",
+        "name":  "Stug III-G",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Germany",
+        "cost":  3,
+        "attack":  3,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Damage from STUG III-G ignores Heavy Armor.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kGermany-8",
+        "name":  "Pak 38",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Germany",
+        "cost":  3,
+        "attack":  1,
+        "defense":  3,
+        "abilities":  [
+                          "Ambush"
+                      ],
+        "abilityText":  "Ambush. Deals triple damage to tanks.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-9",
+        "name":  "Marder III H",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Germany",
+        "cost":  3,
+        "attack":  3,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When a friendly unit destroys an enemy unit, draw a random card.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-10",
+        "name":  "15 cm Autokanone",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Germany",
+        "cost":  3,
+        "attack":  3,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When you deploy a unit, deal 1 damage to the enemy HQ.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-11",
+        "name":  "Dornier Do 217",
+        "type":  "Unit",
+        "unitType":  "Bomber",
+        "nation":  "Germany",
+        "cost":  6,
+        "attack":  5,
+        "defense":  4,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When DORNIER DO 217 destroys a unit, the enemy must discard a card at random.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-12",
+        "name":  "Fw 190 A",
+        "type":  "Unit",
+        "unitType":  "Fighter",
+        "nation":  "Germany",
+        "cost":  6,
+        "attack":  5,
+        "defense":  5,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deployment: Draw a card.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-13",
+        "name":  "Dive Bombing",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give an enemy unit -2 attack and -1 defense until the start of your next turn.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-14",
+        "name":  "Fast Heinz",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give your German tanks +2+1.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-15",
+        "name":  "Rush Production",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When you deploy a German unit this turn, it gets +2-1.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kGermany-16",
+        "name":  "Iron From The North",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "If you control the frontline, gain 3 additional Kredits",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-17",
+        "name":  "Lurking Danger",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Draw a random countermeasure from your deck. It costs 3 less this turn.",
+        "rarity":  "Elite",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kGermany-18",
+        "name":  "Blackout",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Pin target enemy air unit and draw a card.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-19",
+        "name":  "Careless Talk",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When your enemy deploys a unit, deal 3 damage to it.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kGermany-20",
+        "name":  "Stranglehold",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When a unit is deployed, the enemy loses remaining kredits.",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kGermany-21",
+        "name":  "Retaliation",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  2,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When your HQ receives damage, deal equal damage to the enemy HQ.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kGermany-22",
+        "name":  "Missing",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "Germany",
+        "cost":  2,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Destroy unit when moved into the frontline.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-23",
+        "name":  "173rd Guard Rifles",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  1,
+        "defense":  1,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. Gets +1 attack when your HQ takes damage.",
+        "rarity":  "Standard",
+        "set":  "Legions"
+    },
+    {
+        "id":  "kSoviet-24",
+        "name":  "Light Infantry (Old)",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  1,
+        "defense":  1,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "",
+        "rarity":  "",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-25",
+        "name":  "37 mm Anti-Aircraft Gun",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  1,
+        "defense":  1,
+        "abilities":  [
+                          "Smokescreen"
+                      ],
+        "abilityText":  "Smokescreen. Enemy air units cost +2 to operate.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-26",
+        "name":  "128th Rifles",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  3,
+        "defense":  1,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Pincer: [[Special abilities",
+        "rarity":  "Standard",
+        "set":  "Breakthrough"
+    },
+    {
+        "id":  "kSoviet-27",
+        "name":  "329th Engineer Battalion",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  0,
+        "defense":  4,
+        "abilities":  [
+                          "Smokescreen"
+                      ],
+        "abilityText":  "Smokescreen. When another friendly unit is destroyed, your HQ gains +2 defense.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-28",
+        "name":  "15th Motor Rifles",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Soviet",
+        "cost":  3,
+        "attack":  2,
+        "defense":  5,
+        "abilities":  [
+                          "Guard"
+                      ],
+        "abilityText":  "Guard. Your HQ is [[Keywords#Immune",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kSoviet-29",
+        "name":  "Yak 3",
+        "type":  "Unit",
+        "unitType":  "Fighter",
+        "nation":  "Soviet",
+        "cost":  3,
+        "attack":  3,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "[[Keywords#Deployment",
+        "rarity":  "Limited",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-30",
+        "name":  "Petlyakov Pe-2ft",
+        "type":  "Unit",
+        "unitType":  "Bomber",
+        "nation":  "Soviet",
+        "cost":  3,
+        "attack":  2,
+        "defense":  4,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deployment effects do not trigger",
+        "rarity":  "Special",
+        "set":  "Breakthrough"
+    },
+    {
+        "id":  "kSoviet-31",
+        "name":  "T-26",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Soviet",
+        "cost":  3,
+        "attack":  2,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deal 1 damage to any target.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-32",
+        "name":  "52-K",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Soviet",
+        "cost":  3,
+        "attack":  2,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deal 4 damage to target enemy air unit.",
+        "rarity":  "Standard",
+        "set":  "World At War"
+    },
+    {
+        "id":  "kSoviet-33",
+        "name":  "KV-1 1941",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Soviet",
+        "cost":  6,
+        "attack":  3,
+        "defense":  6,
+        "abilities":  [
+                          "Heavy Armor"
+                      ],
+        "abilityText":  "Heavy Armor 1. Each time the enemy draws a card, deal 2 damage to the enemy HQ.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-34",
+        "name":  "85mm D-44 Field Gun",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Soviet",
+        "cost":  6,
+        "attack":  4,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Units damaged by 85mm D-44 FIELD GUN and their adjacent units get pinned.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-35",
+        "name":  "Men Of Steel",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Choose one - your units have +1 Heavy Armor this turn OR remove Heavy Armor from a unit.",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kSoviet-36",
+        "name":  "Final Push",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give a friendly unit +3 attack. Destroy it at the end of your turn.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-37",
+        "name":  "Juggernaut",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give a friendly tank or infantry +2+1. It must attack each turn or it is destroyed.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kSoviet-38",
+        "name":  "Tamanskaya!",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Fully repair all friendly ground units.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kSoviet-39",
+        "name":  "Veteran Pilots",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Choose One - Give a Soviet air unit +1+2 OR immune this turn.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kSoviet-40",
+        "name":  "Bloody Sickle",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Soviet",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deal 1 damage to a unit and your HQ. Draw a card.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-41",
+        "name":  "506th Airborne",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  2,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-42",
+        "name":  "109th Combat Engineers",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  1,
+        "defense":  2,
+        "abilities":  [
+                          "Smokescreen"
+                      ],
+        "abilityText":  "Smokescreen. When another friendly unit moves into the frontline, give it +1 attack.",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kUSA-43",
+        "name":  "M8 Greyhound",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  1,
+        "defense":  3,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. While in the frontline, units in your support line have +1 attack.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-44",
+        "name":  "10th Engineers Battalion",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  1,
+        "defense":  1,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Adjacent ground units have +2 attack.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-45",
+        "name":  "32nd Infantry Regiment",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  2,
+        "defense":  1,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Draw a 32nd INFANTRY REGIMENT from your deck",
+        "rarity":  "Standard",
+        "set":  "Breakthrough"
+    },
+    {
+        "id":  "kUSA-46",
+        "name":  "1st Marines",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "USA",
+        "cost":  3,
+        "attack":  3,
+        "defense":  4,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. When this unit moves into the frontline, give your HQ [[Keywords#Smokescreen",
+        "rarity":  "Limited",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kUSA-47",
+        "name":  "M24 Chaffee",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "USA",
+        "cost":  3,
+        "attack":  4,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When M24 CHAFFEE moves to the frontline, add a copy beside it.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-48",
+        "name":  "F4F-4 Wildcat",
+        "type":  "Unit",
+        "unitType":  "Fighter",
+        "nation":  "USA",
+        "cost":  3,
+        "attack":  2,
+        "defense":  3,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. When this unit moves to the front line, add one \u0027F2A Buffalo\u0027 to the front line.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-49",
+        "name":  "M16 Half-Track",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "USA",
+        "cost":  3,
+        "attack":  2,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deployment: An enemy air or infantry unit must retreat.",
+        "rarity":  "Limited",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-50",
+        "name":  "M4A3R3 Zippo",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "USA",
+        "cost":  3,
+        "attack":  2,
+        "defense":  4,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Has +4 attack against infantry and enemy HQ.",
+        "rarity":  "Limited",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-51",
+        "name":  "A-24 Banshee",
+        "type":  "Unit",
+        "unitType":  "Bomber",
+        "nation":  "USA",
+        "cost":  6,
+        "attack":  3,
+        "defense":  3,
+        "abilities":  [
+                          "Heavy Armor"
+                      ],
+        "abilityText":  "Heavy Armor 1. Deployment: Deal damage to a unit equal to the amount of Kredits you have remaining.",
+        "rarity":  "Limited",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-52",
+        "name":  "Corsair F4U-1D",
+        "type":  "Unit",
+        "unitType":  "Fighter",
+        "nation":  "USA",
+        "cost":  6,
+        "attack":  4,
+        "defense":  4,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Destruction: Destroy a random enemy unit.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-53",
+        "name":  "Carrier Cover",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Choose one - Your fighters get +1+1 OR are moved into the frontline, if possible.",
+        "rarity":  "Limited",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kUSA-54",
+        "name":  "Land Of The Free",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Target friendly unit has 0 operation cost.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-55",
+        "name":  "Magic",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Choose one - a unit is fully repaired OR it loses Guard, Ambush and Smokescreen.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kUSA-56",
+        "name":  "Embargo",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Enemy units cost 2 more to operate next turn.",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kUSA-57",
+        "name":  "Awoken Giant",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deal 2 damage to target enemy unit in the frontline. If this destroys it, draw a card.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-58",
+        "name":  "Patton",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Units you deploy cost 1 less kredit and have Blitz this turn.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-59",
+        "name":  "Air Defense",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "USA",
+        "cost":  2,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deal 3 damage to an attacking unit. If it\u0027s an air unit, destroy it instead.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kUSA-60",
+        "name":  "Enemy Spotted",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "USA",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "If your enemy captures the frontline, draw 3 cards.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-61",
+        "name":  "1st Airborne",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  1,
+        "defense":  1,
+        "abilities":  [
+                          "Smokescreen",
+                          "Fury"
+                      ],
+        "abilityText":  "Smokescreen, Mobilize, Fury. At the start of your turn, -1 operation cost if [[Keywords#Mobilize",
+        "rarity":  "Limited",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kBritain-62",
+        "name":  "Welsh Guards",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  1,
+        "defense":  2,
+        "abilities":  [
+                          "Guard"
+                      ],
+        "abilityText":  "Guard, Guard. Give another target +1 defense.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kBritain-63",
+        "name":  "111th Indian Brigade",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  1,
+        "defense":  3,
+        "abilities":  [
+                          "Fury"
+                      ],
+        "abilityText":  "Fury. When your HQ gains defence, it gains 1 extra defence",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kBritain-64",
+        "name":  "1st Gurkha Rifles",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Britain",
+        "cost":  2,
+        "attack":  1,
+        "defense":  4,
+        "abilities":  [
+                          "Fury",
+                          "Deployment"
+                      ],
+        "abilityText":  "Fury, Deployment. Gets +1 attack for each order you have given this turn.",
+        "rarity":  "Special",
+        "set":  "Legions"
+    },
+    {
+        "id":  "kBritain-65",
+        "name":  "RAF Buffalo Mk I",
+        "type":  "Unit",
+        "unitType":  "Fighter",
+        "nation":  "Britain",
+        "cost":  2,
+        "attack":  2,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Gets +1 +1 when it survives combat.",
+        "rarity":  "Limited",
+        "set":  "Legions"
+    },
+    {
+        "id":  "kBritain-66",
+        "name":  "Coldstream Guards",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Britain",
+        "cost":  3,
+        "attack":  1,
+        "defense":  4,
+        "abilities":  [
+                          "Guard"
+                      ],
+        "abilityText":  "Guard, Guard. Add a NAVAL SUPPORT to your hand.",
+        "rarity":  "Limited",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kBritain-67",
+        "name":  "Crusader Mk II",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Britain",
+        "cost":  3,
+        "attack":  2,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When you give a British order, draw a card.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-68",
+        "name":  "P-40 Kittyhawk",
+        "type":  "Unit",
+        "unitType":  "Fighter",
+        "nation":  "Britain",
+        "cost":  3,
+        "attack":  2,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deployment: Deal 2 damage to an enemy ground target.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-69",
+        "name":  "QF 40mm Mk III",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Britain",
+        "cost":  3,
+        "attack":  1,
+        "defense":  2,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. Deploment: If you have dealt damage to the enemy HQ this game, add a copy of this card to your hand.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-70",
+        "name":  "6 Pounder",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Britain",
+        "cost":  3,
+        "attack":  2,
+        "defense":  1,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deals double damage to tanks",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-71",
+        "name":  "A34 Comet",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Britain",
+        "cost":  6,
+        "attack":  6,
+        "defense":  6,
+        "abilities":  [
+                          "Heavy Armor"
+                      ],
+        "abilityText":  "Heavy Armor 1. When this unit deals damage to enemy HQ, draw a card.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-72",
+        "name":  "BL 4.5\" Medium Gun",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Britain",
+        "cost":  6,
+        "attack":  3,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deployment: Pin an enemy unit.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kBritain-73",
+        "name":  "AA Barrage",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Target air unit must retreat. Give your HQ +2 defense.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-74",
+        "name":  "Critical Damage",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deal 1 damage to a unit. If it has no adjacent units, deal 2 damage instead.",
+        "rarity":  "Standard",
+        "set":  "Breakthrough"
+    },
+    {
+        "id":  "kBritain-75",
+        "name":  "Observer Corps",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Choose a card with cost 5 or more in your hand. Reduce its cost by 2.",
+        "rarity":  "Standard",
+        "set":  "World At War"
+    },
+    {
+        "id":  "kBritain-76",
+        "name":  "Resolute Defense",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give a unit with Guard +1+3.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kBritain-77",
+        "name":  "Cup of Tea",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give your British units +2 defense.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-78",
+        "name":  "The Desert Rats",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deal 1 damage to an enemy unit and Pin it.",
+        "rarity":  "Limited",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-79",
+        "name":  "Secret Operatives",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Counter an order that targets a friendly unit. Give the unit +2 defense.",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kBritain-80",
+        "name":  "Radar Alert",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  3,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When the enemy deploys a unit, add a random British air unit of similar cost.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kBritain-81",
+        "name":  "Dowding System",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  3,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Counter an enemy order with cost 4 or more.",
+        "rarity":  "Standard",
+        "set":  "Breakthrough"
+    },
+    {
+        "id":  "kBritain-82",
+        "name":  "Interception",
+        "type":  "Countermeasure",
+        "unitType":  null,
+        "nation":  "Britain",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Counter an enemy order that targets a friendly target.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-83",
+        "name":  "Ki-51 Sonia",
+        "type":  "Unit",
+        "unitType":  "Bomber",
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  1,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When Ki-51 SONIA attacks a pinned unit, destroy that unit.",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kJapan-84",
+        "name":  "Model 25",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  1,
+        "defense":  1,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deployment: Give a friendly infantry +2 attack until end of turn.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-85",
+        "name":  "Type 94 Tk",
+        "type":  "Unit",
+        "unitType":  "Tank",
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  1,
+        "defense":  1,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deployment: Add a [[Surprise Attack",
+        "rarity":  "Limited",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kJapan-86",
+        "name":  "34th Infantry Regiment",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  2,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "At the end of your turn, draw and discard the top card of your deck",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kJapan-87",
+        "name":  "Shibata Regiment",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  1,
+        "defense":  3,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. When the enemy gives an order, deal 1 damage to the enemy HQ.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kJapan-88",
+        "name":  "Kagoshima Regiment",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Japan",
+        "cost":  3,
+        "attack":  5,
+        "defense":  3,
+        "abilities":  [
+                          "Ambush"
+                      ],
+        "abilityText":  "Ambush, Ambush. HQs cannot gain defense.",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kJapan-89",
+        "name":  "Mito Regiment",
+        "type":  "Unit",
+        "unitType":  "Infantry",
+        "nation":  "Japan",
+        "cost":  3,
+        "attack":  2,
+        "defense":  3,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz, Blitz. Deal 2 damage to the enemy HQ.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-90",
+        "name":  "C6N Saiun",
+        "type":  "Unit",
+        "unitType":  "Fighter",
+        "nation":  "Japan",
+        "cost":  3,
+        "attack":  3,
+        "defense":  3,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Cannot be attacked by ground units while in the support line. Countermeasures cannot trigger.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-91",
+        "name":  "Type 96 Aa Gun",
+        "type":  "Unit",
+        "unitType":  "Artillery",
+        "nation":  "Japan",
+        "cost":  3,
+        "attack":  2,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Enemy air units enter the battlefield with defense of 1. Destruction: Draw a card.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-92",
+        "name":  "Aichi D3a-1",
+        "type":  "Unit",
+        "unitType":  "Bomber",
+        "nation":  "Japan",
+        "cost":  3,
+        "attack":  2,
+        "defense":  2,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Destruction: If it is the enemy turn, add an AICHI D3A-2 to your support line.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-93",
+        "name":  "Ki-61-Ii Tony",
+        "type":  "Unit",
+        "unitType":  "Fighter",
+        "nation":  "Japan",
+        "cost":  6,
+        "attack":  5,
+        "defense":  4,
+        "abilities":  [
+                          "Blitz"
+                      ],
+        "abilityText":  "Blitz. Spend 7 kredits at the end of enemy turn to deploy from hand.",
+        "rarity":  "Limited",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-94",
+        "name":  "P1Y Ginga",
+        "type":  "Unit",
+        "unitType":  "Bomber",
+        "nation":  "Japan",
+        "cost":  6,
+        "attack":  4,
+        "defense":  4,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "When discarded, deal 1 damage to all enemies. Deployment: Deal 1 damage to all enemies",
+        "rarity":  "Limited",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-95",
+        "name":  "For The Emperor",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "All friendly units have +1 attack and operate for one less until end of turn.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-96",
+        "name":  "Gunboat Run",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Deal 1 damage to the enemy HQ. Discarded end of turn.",
+        "rarity":  "Standard",
+        "set":  "Allegiance"
+    },
+    {
+        "id":  "kJapan-97",
+        "name":  "Isolation",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Remove target unit from the battlefield. Return it at the start of your next turn.",
+        "rarity":  "Elite",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-98",
+        "name":  "Sneak Maneuver",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give target infantry or tank with 0 operation cost +2 attack.",
+        "rarity":  "Standard",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-99",
+        "name":  "Burst Of Fire",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Give a friendly fighter +1 attack and Fury this turn.",
+        "rarity":  "Special",
+        "set":  "Base"
+    },
+    {
+        "id":  "kJapan-100",
+        "name":  "Honorable Death",
+        "type":  "Order",
+        "unitType":  null,
+        "nation":  "Japan",
+        "cost":  1,
+        "attack":  0,
+        "defense":  0,
+        "abilities":  [
+
+                      ],
+        "abilityText":  "Destroy target unit with attack 2 or less. Owner of the unit draws a card.",
+        "rarity":  "Special",
+        "set":  "Allegiance"
+    }
+]
